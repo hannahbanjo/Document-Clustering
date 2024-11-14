@@ -1,0 +1,6 @@
+ipykernel
+jupyter
+numpy
+scikit-learn
+matplotlib
+opencv-python
